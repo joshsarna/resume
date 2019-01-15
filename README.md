@@ -8,11 +8,18 @@ FULL-STACK WEB DEVELOPER
 
 As a web developer with a physical science background, I bring to coding an analytical mindset ideal for problem solving and efficiency. I enjoy creating algorithms and incorporating mathematical tools into things I create. In my experience, software development and math both transcend disciplinary categorization. There’s nothing that can’t be better understood through math, and there’s nothing that can’t be furthered and improved by JavaScript.
 
-Skills: Ruby, Rails, JavaScript, VueJS, React, Angular.js, Node.js, TypeScript, Bootstrap, jsDraw, Python, Django, Visual Basic .NET, HTML/CSS, SQL, Postgres, MATLAB, Wolfram Mathematica, APIs, OOP, TDD, Git, and Heroku
+Skills: Ruby, Rails, JavaScript, VueJS, Vuex, React, Redux, Angular.js, Node.js, TypeScript, Bootstrap, Bulma, Python, Django, PHP, Wordpress, Pressable, Visual Basic .NET, HTML/CSS, SQL, Postgres, MySQL, R, MATLAB, Wolfram Mathematica, APIs, OOP, TDD, Git, Agile, Heroku, and AWS
 
 
 EXPERIENCE
 
+Freelance Web Developer :: 2018 - Present
+
+• LawnNinja: Build a gig-booking app centered around lawn work, providing a platform through which residents can post jobs and providers can claim them, record their work, and invoice residents; this is built using PostgreSQL, Rails, React, and React Native and is an ongoing Agile project
+
+• Backyard Organic Farms: Build a produce delivery subscription website, using Wordpress; this is an ongoing project
+
+• Ed Sarna: Build a personal website for a writer, using PostgreSQL, Rails, and VueJS; this is an ongoing project
 
 Actualize, Software Engineer & TA :: 2018 - Present
 
@@ -28,15 +35,6 @@ Creative Support, Supported Living Specialist :: 2015 - 2018
 • Supported clients with intellectual and developmental disabilities in learning Java and Python
 
 • Modernized company system by creating online spreadsheets for tracking hours to supplement outdated paper system until payroll tracking was transitioned to a fully computerized system
-
-
-UCLA Program Activities Board, Community Activities Committee Chair :: 2016 - 2017
-
-• Managed ten-person committee and $1.6 million funding budget that was allocated to over 100 community service and outreach groups
-
-• Increased funding two-fold (from $800k/yr) during one-year tenure through a campaign that utilized projective data analysis and social media and that pushed two funding referenda through student government elections
-
-• Streamlined application process by eliminating redundancies in application and creating extensive online instructional documentation and educational resources for applicant groups
 
 
 EDUCATION
