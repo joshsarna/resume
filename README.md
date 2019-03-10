@@ -8,7 +8,7 @@ FULL-STACK WEB DEVELOPER
 
 As a web developer with a physical science background, I bring to coding an analytical mindset ideal for problem solving and efficiency. I enjoy creating algorithms and incorporating mathematical tools into things I create. In my experience, software development and math both transcend disciplinary categorization. There’s nothing that can’t be better understood through math, and there’s nothing that can’t be furthered and improved by JavaScript.
 
-Skills: Ruby, Rails, JavaScript, VueJS, Vuex, React, Redux, Angular.js, Node.js, TypeScript, Bootstrap, Bulma, Python, Django, PHP, Wordpress, Pressable, Visual Basic .NET, HTML/CSS, SQL, Postgres, MySQL, R, MATLAB, Wolfram Mathematica, APIs, OOP, TDD, Git, Agile, Heroku, and AWS
+Skills: Ruby, Rails, JavaScript, VueJS, Vuex, React, Redux, Angular.js, Node.js, TypeScript, Bootstrap, Bulma, Python, Django, Java, PHP, Wordpress, Pressable, Visual Basic .NET, HTML/CSS, SQL, Postgres, MySQL, R, MATLAB, Wolfram Mathematica, APIs, OOP, TDD, MVC Frameworks, Git, Agile, Heroku, and AWS
 
 
 EXPERIENCE
@@ -30,11 +30,14 @@ Actualize, Software Engineer & TA :: 2018 - Present
 • Bootcamp: Completed the three-month intensive Actualize bootcamp and learned Ruby, Rails, Javascript, VueJS, HTML, and CSS; learned how to build front-end, back-end, and full-stack apps; gained the ability to learn new frameworks and technologies quickly
 
 
-Creative Support, Supported Living Specialist :: 2015 - 2018
 
-• Supported clients with intellectual and developmental disabilities in learning Java and Python
+OPEN SOURCE CONTRIBUTIONS
 
-• Modernized company system by creating online spreadsheets for tracking hours to supplement outdated paper system until payroll tracking was transitioned to a fully computerized system
+• fellowship: a ruby gem with algorithm helper-methods, including route-finding methods to minimize distance or number of steps
+
+• utsless: a ruby gem that replaces `puts` statements with `p` statements at runtime
+
+• red_book: a ruby gem that prints random Lord of the Rings quotes to the rails server
 
 
 EDUCATION
