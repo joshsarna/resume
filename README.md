@@ -13,21 +13,27 @@ Skills: Ruby, Rails, JavaScript, VueJS, Vuex, React, Redux, Angular.js, Node.js,
 
 EXPERIENCE
 
-Freelance Web Developer :: 2018 - Present
+Freelance Web Developer | 2018 - Present
 
-• LawnNinja: Build a gig-booking app centered around lawn work, providing a platform through which residents can post jobs and providers can claim them, record their work, and invoice residents; this is built using PostgreSQL, Rails, React, and React Native and is an ongoing Agile project
+• LawnNinja: Built a gig-booking app centered around lawn work, providing a platform through which residents can post jobs and providers can claim them, record their work, and invoice residents; this is built using PostgreSQL, Rails, React, React Native, and the Stripe API and is an ongoing Agile project
 
-• Backyard Organic Farms: Build a produce delivery subscription website, using Wordpress; this is an ongoing project
+• Backyard Organic Farms: Built a produce delivery subscription website, the first version of which was made  using Wordpress; a subsequent edition uses Rails, Vue, Postgres, and the Square API
 
-• Ed Sarna: Build a personal website for a writer, using PostgreSQL, Rails, and VueJS; this is an ongoing project
+• Ed Sarna: Built a personal website for a writer, using PostgreSQL, Rails, and VueJS; this includes an extensive admin interface and email notifications sent with SendGrid
 
-Actualize, Software Engineer & TA :: 2018 - Present
+Actualize, Software Engineer & TA | 2018 - Present
 
 • TAship: Teach coding lessons to a live online class; assist students in developing their programming skills by providing supplementary instructional material, troubleshooting applications, and asking follow-up questions on coding techniques
 
 • Middle Maps: Built an app that allows a user to search locations in Middle Earth (setting of Lord of the Rings) and to find routes between locations; learned jsDraw and Heroku and wrote an efficient shortest-route algorithm in Ruby; the backend of this app is built on Rails with a PostgreSQL database, and the front-end is built on VueJS
 
 • Bootcamp: Completed the three-month intensive Actualize bootcamp and learned Ruby, Rails, Javascript, VueJS, HTML, and CSS; learned how to build front-end, back-end, and full-stack apps; gained the ability to learn new frameworks and technologies quickly
+
+Creative Support, Supported Living Specialist | 2015 - 2018
+
+• Supported clients with intellectual and developmental disabilities in learning Java and Python
+
+• Modernized company system by creating online spreadsheets for tracking hours to supplement outdated paper system until payroll tracking was transitioned to a fully-computerized system
 
 
 
@@ -42,11 +48,6 @@ OPEN SOURCE CONTRIBUTIONS
 
 EDUCATION
 
+University of California at Los Angeles, Bachelor of Science in Physical Chemistry | 2017
 
-University of California at Los Angeles, Bachelor of Science in Physical Chemistry :: 2017
-
-• Received mathematics minor
-
-• Used Mathematica to model analytical mechanics problems; MATLAB to model analytical chemistry problems
-
-• Used Spartan, CaGe, and Kintecus software applications to model chemical reactions and species
+• Mathematics Minor
